@@ -75,7 +75,7 @@ body{
 
 #images
 {
-    position: relative;
+    position: absolute;
     width:600px;
-    float: right;
+    right: -150px;
 }
